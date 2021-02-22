@@ -1,0 +1,14 @@
+C:\Users\NADANE\source\repos\FModel\PictureViewer\bin\Debug\FModel.exe.config
+C:\Users\NADANE\source\repos\FModel\PictureViewer\bin\Debug\FModel.exe
+C:\Users\NADANE\source\repos\FModel\PictureViewer\bin\Debug\FModel.pdb
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\FModel.csprojAssemblyReference.cache
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\FModel.Properties.Resources.resources
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\FModel.csproj.GenerateResource.cache
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\FModel.csproj.CoreCompileInputs.cache
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\FModel.exe
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\FModel.pdb
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\FModel.Form2.resources
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\FModel.Form3.resources
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\FModel.Form4.resources
+C:\Users\NADANE\source\repos\FModel\PictureViewer\obj\Debug\FModel.Form5.resources
